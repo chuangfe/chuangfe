@@ -31,3 +31,5 @@ Here are some simple things I've built:
 - Localization: i18n
 - Version Control: Git
 - Package Management: NPM
+
+I used to work with Vue, but after joining my current job, I mainly use React.
