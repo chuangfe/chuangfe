@@ -23,6 +23,7 @@ Here are some simple things I've built:
 - [pokemon-store](https://github.com/chuangfe/pokemon-store)
 - [mask-map](https://github.com/chuangfe/mask-map)
 - [blogzine](https://github.com/chuangfe/blogzine)
+- [todomvc-react](https://github.com/chuangfe/todomvc-react)
 
 ### ⚡ Kills :
 - Frontend: HTML5, CSS, JavaScript
