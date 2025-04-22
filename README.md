@@ -45,7 +45,7 @@ An internal admin dashboard with extensive form-based UI.
 - **Tech Stack:** React, React Router, MobX, Ant Design  
 - **Interesting Challenges:** Managing large forms efficiently using Computed properties  
 
-#### Chan Chao International: Exhibition Floor Plan System  
+#### [Chan Chao International](https://github.com/chuangfe/chuangfe/tree/main/demos/chanChao): Exhibition Floor Plan System  
 A system for editing and managing exhibition floor plans, which can be used in an app.  
 - **Tech Stack:** React, React Router, MobX, Ant Design, PixiJS  
 - **Interesting Challenges:** Handling interactions between DOM and PixiJS, booth editing (add, remove, move, merge, copy-paste)  
