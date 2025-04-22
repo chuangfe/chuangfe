@@ -28,9 +28,9 @@ Here are some simple things I've built:
 - Frontend: HTML5, CSS, JavaScript
 - Frameworks & Libraries: React, React Router, MobX
 - UI & Styling: Ant Design, Bootstrap, SCSS
-- Localization: i18n
+- Localization: I18n
 - Version Control: Git
-- Package Management: NPM
+- Package Management: YARM
 
 I used to work with Vue, but after joining my current job, I mainly use React.
 
@@ -40,7 +40,7 @@ A platform for landowners in the U.S. to rent out their land for outdoor activit
 - **Tech Stack:** React, React Router, MobX, Ant Design, Google Maps API  
 - **Interesting Challenges:** Integrating Google Maps API  
 
-#### 柯南國際股份有限公司: Admin Dashboard  
+#### [Conan](https://github.com/chuangfe/chuangfe/tree/main/demos/conan): Admin Dashboard  
 An internal admin dashboard with extensive form-based UI.  
 - **Tech Stack:** React, React Router, MobX, Ant Design  
 - **Interesting Challenges:** Managing large forms efficiently using Computed properties  
@@ -55,6 +55,6 @@ An Android TV app for Public Television Service (PTS).
 - **Tech Stack:** Kotlin, Jetpack Compose  
 - **Interesting Challenges:** Adapting to a completely new tech stack  
 
-### 📌 Career Timeline  
+### Career Timeline  
 - 🟢 **2021/11 - Present**  
-  **Frontend Engineer** at **奇蹟行動科技有限公司** 
+  **Frontend Engineer** at **Miracle Mobile** 
