@@ -25,7 +25,7 @@ Here are some simple things I've built:
 - [blogzine](https://github.com/chuangfe/blogzine)
 - [todomvc-react](https://github.com/chuangfe/todomvc-react)
 
-### ⚡ Kills :
+### Kills :
 - Frontend: HTML5, CSS, JavaScript
 - Frameworks & Libraries: React, React Router, MobX
 - UI & Styling: Ant Design, Bootstrap, SCSS
@@ -51,7 +51,7 @@ A system for editing and managing exhibition floor plans, which can be used in a
 - **Tech Stack:** React, React Router, MobX, Ant Design, PixiJS  
 - **Interesting Challenges:** Handling interactions between DOM and PixiJS, booth editing (add, remove, move, merge, copy-paste)  
 
-#### [PTS TV App](https://play.google.com/store/apps/details?id=com.pts.ptsplus&hl=zh_TW&pli=1)
+#### [PTS TV App](https://github.com/chuangfe/chuangfe/tree/main/demos/ptstv)
 An Android TV app for Public Television Service (PTS).  
 - **Tech Stack:** Kotlin, Jetpack Compose  
 - **Interesting Challenges:** Adapting to a completely new tech stack  
