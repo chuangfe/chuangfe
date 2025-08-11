@@ -19,95 +19,89 @@ I'm a frontend engineer passionate about creating maintainable, scalable, and us
 ---
 
 ### Currently Learning
-- **Tailwind CSS:** Utility-first framework for building responsive UIs faster.
-- **Next.js:** Full-stack React framework with SSR and SSG support.
-- **BFF (Backend for Frontend):** Designing frontend-optimized API layers.
+- **Tailwind CSS:** 以 Utility-first 方式快速建立響應式 UI
+- **Next.js:** 支援 SSR 與 SSG 的全端 React 框架
+- **BFF (Backend for Frontend):** 設計針對前端優化的 API Layer
+
+---
+
+### Career Timeline 
+- 🟢 **2021/11 - Present**  
+  **Software Engineer** at **Miracle Mobile** 
 
 ---
 
 ### Work Experience
 
-#### [Nearyou](https://nearyou.com.tw/)
-OnePlace 房屋租賃媒合平台 - Front End
+#### [Nearyou](https://nearyou.com.tw/) - 房屋租賃平台
 - **Tech Stack:** Next.js 15, React 19, TypeScript 5.8, MobX 6, SCSS Modules, Ant Design 5, Google Maps API, Jest, React Testing Library, Git
 - **Role:**
-  - Frontend Architecture Design: Adopted MVVM architectural pattern, building a layered structure from View (React components) → ViewModel (MobX Store) → Service → API
-  - Hybrid Rendering Strategy: Implemented a hybrid rendering approach using SSR (property detail pages), SSG (static pages), and CSR (interactive features) to optimize SEO and loading performance
-  - Complex Feature Development: Built features including a property search system (Google Maps integration), multi-step property listing form, user authentication system (with LINE OAuth), and admin dashboard
-  - Performance Optimization: Applied techniques such as React.memo, code-splitting with Suspense, and drag-and-drop sorting with @dnd-kit to enhance user experience
-  - AI-Assisted Development: Used Claude AI to accelerate development, allowing developers to focus on architectural decisions and code quality
+  - 前端架構設計：採用 MVVM 架構模式，建立從 View (React Components) → ViewModel (MobX Store) → Service → API 的分層結構
+  - 混合渲染策略：整合 SSR（物件詳情頁）、SSG（靜態頁面）、CSR（互動功能）以提升 SEO 與載入速度
+  - 功能開發：實作房屋搜尋系統（Google Maps 整合）、多步驟刊登表單、LINE OAuth 登入、後台管理系統
+  - 效能優化：使用 React.memo、Suspense 代碼分割、@dnd-kit 拖曳排序等技術
+  - AI 輔助開發：使用 Claude AI 加速開發流程，開發者專注於架構與程式品質
 - **Challenges:**
-  - Complex State Management: Designed the ViewModel layer using MobX to manage shared state across multiple pages, including search filters, user auth, and property management logic
-  - Map Integration Optimization: Solved performance issues related to large numbers of map markers by implementing clustering and synchronized map-bound searches for better interaction
-  - Dynamic SEO Optimization: Built a dynamic metadata generation system to set title, description, og:image, and other tags based on property content
+  - 複雜狀態管理：設計 MobX ViewModel 層處理跨頁共享狀態（搜尋條件、使用者驗證、物件管理邏輯）
+  - 地圖整合效能優化：大量地圖標記的效能優化（clustering 與地圖範圍同步查詢）
+  - 動態 SEO：依據物件內容生成標題、描述、og:image 等中繼資料
 - **Development Date:** 2025/07 ~ 2025/08
 
-#### Crawler
-Responsible for rebuilding environments and migrating existing systems
+#### 亞洲指標 Crawler System - 爬蟲系統基礎建設
 - **Tech Stack:** Python, Scrapy, Playwright, Docker, AWS EC2/S3, Cronjob, Linux, Git, CI/CD
 - **Role:**
-  - AWS Infrastructure Setup: Built AWS cloud infrastructure from scratch, including EC2 instance configuration, bastion host setup, security groups, and network security
-  - Docker Container Management: Designed and implemented a containerized architecture to standardize multiple crawler servers, ensuring stable service operation
-  - Crawler Maintenance & Optimization: Fixed and optimized crawlers for various websites, covering static content scraping, dynamic rendering, and simulated user interactions
-  - CI/CD Pipeline Implementation: Built an automated deployment pipeline using AWS S3 and SSM to support distributed deployments across multiple EC2 instances
+  - AWS 雲端基礎建設：自零建立 EC2、Bastion Host、安全群組與網路安全設定
+  - Docker 容器化管理：設計並實作多台爬蟲伺服器的標準化容器架構，確保服務穩定運行
+  - 爬蟲維護與優化：修正並優化不同網站的爬蟲，涵蓋靜態頁面抓取、動態渲染、模擬使用者操作
+  - CI/CD 自動化部署：透過 AWS S3 與 SSM 實作跨多台 EC2 的自動部署流程
 - **Challenges:**
-  - Large-Scale Data Standardization: Defined a unified data format to handle complex structures such as articles, comments, and statistical data
-  - Technical Debt Management: Refactored legacy code by removing unused modules, enforcing naming conventions, and auditing security configurations
-  - AI-Assisted Development: Leveraged Claude AI to automatically analyze website structure changes, significantly improving crawler maintenance efficiency and accuracy
-- **Development Date:** 2025/04 ~ 2025/07
+  - 大量資料標準化：定義統一的資料格式，處理文章、留言與統計資料等複雜結構
+  - 技術債管理：重構舊有程式碼，移除未使用模組、統一命名規範、檢查安全設定
+  - AI 輔助維護：使用 Claude AI 自動分析網站結構變更，加速爬蟲維護效率與準確性
+- **Development Date:** 2025/04 ~ Present
 
-#### [PTS TV App](https://github.com/chuangfe/chuangfe/tree/main/demos/ptstv)  
-Android TV app for Public Television Service (PTS)  
+#### [PTS TV App](https://github.com/chuangfe/chuangfe/tree/main/demos/ptstv) - 公共電視 Android TV App 
 - **Tech Stack:** Kotlin, Jetpack Compose  
-- **Role:** Contributed to UI and playback control development throughout the app
-- **Challenges:** Learning a new ecosystem (Android/Kotlin/Jetpack Compose)
+- **Role:** 參與 UI 功能與播放控制功能開發
+- **Challenges:** 學習全新生態系（Android/Kotlin/Jetpack Compose）
 - **Development Date:** 2024/09 ~ 2025/01
 
-#### [Chan Chao International](https://github.com/chuangfe/chuangfe/tree/main/demos/chanChao)  
-Exhibition floor plan editor  
+#### [展昭國際](https://github.com/chuangfe/chuangfe/tree/main/demos/chanChao) - 展覽場地平面圖系統
 - **Tech Stack:** React, React Router, MobX, Ant Design, PixiJS  
-- **Role:** Developed interactive canvas tools for editing booths and layouts
-- **Challenges:** Bridged DOM and PixiJS rendering layers, complex state and undo logic
+- **Role:** 開發可互動的平面圖系統
+- **Challenges:** 銜接 DOM 與 PixiJS 渲染層，並實作複雜的狀態與復原邏輯
 - **Development Date:** 2023/05 ~ 2023/08
 
-#### [Conan](https://github.com/chuangfe/chuangfe/tree/main/demos/conan)  
-Internal admin dashboard for managing high-volume forms  
+#### [柯南國際](https://github.com/chuangfe/chuangfe/tree/main/demos/conan) - 後台系統
 - **Tech Stack:** React, React Router, MobX, Ant Design  
-- **Role:** Focused on dynamic form rendering and implemented validation logic
-- **Challenges:** Managed complex form states efficiently using MobX computed values.
+- **Role:** 實作大量表單與驗證邏輯
+- **Challenges:** 使用 MobX computed values 高效管理複雜表單狀態
 - **Development Date:** 2023/01 ~ 2023/04
 
-#### [KAVAVA](https://kavava.com/)  
-A land rental platform in the U.S.  
+#### [KAVAVA](https://kavava.com/) - 美國土地租賃平台
 - **Tech Stack:** React, React Router, MobX, Ant Design, Google Maps API  
-- **Role:** Developed and maintained frontend features for the landowner dashboard  
-- **Challenges:** Google Maps API integration, UI data synchronization
+- **Role:** 開發與維護地主後台功能
+- **Challenges:**  Google Maps API 整合與 UI 資料同步
 - **Development Date V1:** 2022/06 ~ 2022/09
 - **Development Date V2:** 2023/10 ~ 2024/01
 - **Development Date V3:** 2024/03 ~ 2024/05
 
 ---
 
-### Career Timeline 
-- 🟢 **2021/11 - Present**  
-  **Frontend Engineer** at **Miracle Mobile** 
-
----
-
 ### Side Projects 
-Here are some small projects I built to practice concepts or explore new ideas:
+以下為練習與探索新技術的個人專案
 
 #### [Blacknegative](https://github.com/chuangfe/blacknegative)  
-A jQuery-based recreation of animations inspired by the Blacknegative website.
+以 jQuery 重現 Blacknegative 網站動畫
 
 #### [Pokemon Store](https://github.com/chuangfe/pokemon-store)
-A simple e-commerce site built with Vue 2 and Vuex.
+使用 Vue 2 與 Vuex 製作的簡易電商網站
 
 #### [Mask Map](https://github.com/chuangfe/mask-map)
-A map app built with Vue 2 and local data to display pharmacies selling masks.
+使用 Vue 2 與本地資料建立口罩地圖
 
 #### [Blogzine](https://github.com/chuangfe/blogzine)
-A clone of the Blogzine template built with Bootstrap 5.
+以 Bootstrap 5 製作的 Blogzine 模板複製版
 
 #### [TodoMVC React](https://github.com/chuangfe/todomvc-react)
-A TodoMVC implementation using React Hooks, MobX, TypeScript, Vite, and Vitest.
+使用 React Hooks、MobX、TypeScript、Vite、Vitest 製作的 TodoMVC
