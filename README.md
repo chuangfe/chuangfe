@@ -6,7 +6,7 @@
 
 ### About Me
 
-我是一名前端工程師，擁有多年以上開發經驗，專注於建構可擴展的前端架構、實作高互動性的使用者介面，以及優化複雜系統的效能。我曾參與開發前台網站、後台系統與 Android TV App 等，並熟悉跨平台產品的設計與實作。我熱衷於解決 UI/UX 挑戰，並透 AI 工具輔助，加速開發流程，持續交付乾淨、可維護且以使用者為核心的解決方案。
+我是一名前端工程師，擁有多年的開發經驗，專注於建構可擴展的前端架構、實作高互動性的使用者介面，以及優化複雜系統的效能。我曾參與開發前台網站、後台系統與 Android TV App 等，並熟悉跨平台產品的設計與實作。我熱衷於解決 UI/UX 挑戰，並透 AI 工具輔助，加速開發流程，持續交付乾淨、可維護且以使用者為核心的解決方案。
 
 I am a frontend engineer with extensive experience in building scalable architectures, developing highly interactive user interfaces, and optimizing performance for complex systems. I have contributed to projects ranging from customer-facing websites and admin dashboards to Android TV apps, with solid expertise in cross-platform product development. Passionate about solving UI/UX challenges, I leverage AI-assisted tools to accelerate workflows and consistently deliver clean, maintainable, and user-centric solutions.
 
@@ -14,11 +14,11 @@ I am a frontend engineer with extensive experience in building scalable architec
 
 ### Autobiography
 
-我並非資訊相關科系出身，偶然間看到一個動畫效果精美的網站啟發而開始自學前端。利用工作之餘的時間，我扎實學習 HTML、CSS、JavaScript 等基礎技術，並持續挑戰更進階的框架與工具，開發了口罩地圖、電商平台等實際作品，並公開於 GitHub 作為技術展示。這段歷程不僅培養了我獨立解決問題的能力，也讓我深刻體會到程式架構設計與最佳實務的重要性。
+我並非資訊相關科系出身，偶然間看到一個動畫效果精美的網站啟發而開始自學前端。利用工作之餘的時間，學習 HTML、CSS、JavaScript 等基礎技術，並持續挑戰更進階的框架與工具，開發了口罩地圖、電商平台等實際作品，並公開於 GitHub 作為技術展示。這段歷程不僅培養了我獨立解決問題的能力，也讓我深刻體會到程式架構設計與最佳實務的重要性。
 
 在職涯中，我主要負責後台系統的前端開發，熟悉 API 串接、資料處理與表單互動邏輯設計。同時，我也參與多元專案，包括利用 PixiJS 建構互動式平面圖系統、使用 Kotlin/Jetpack Compose 開發 Android TV 應用程式，以及透過 Python、Docker 與 AWS 建立爬蟲服務。在這些專案中，我不斷累積跨領域經驗，並展現快速學習與應用的能力。
 
-目前我最擅長的是 React 與相關前端技術，並將前端作為長期職涯方向。未來，我希望持續深化前端專業，同時逐步拓展後端能力，成為兼具廣度與深度的 T 型工程師，以更全面的視角推動產品開發與優化。
+目前我最擅長的是 React 與其相關的前端技術，並將前端作為長期職涯方向。未來，我希望持續深化前端專業，同時逐步拓展後端能力，成為兼具廣度與深度的 T 型工程師，以更全面的視角推動產品開發與優化。
 
 I did not come from a computer science background, but my journey into frontend development began when I was inspired by a visually stunning website with engaging animations. Fascinated by the experience, I started self-learning frontend technologies such as HTML, CSS, JavaScript, and jQuery during my spare time while working full-time. Over time, I built and published projects like a mask map application and a simple e-commerce site on GitHub, which not only strengthened my technical foundation but also taught me the importance of clean architecture and best practices.
 
@@ -51,6 +51,12 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 - 🟢 **2021/11 - Present**  
   **Software Engineer** at **Miracle Mobile**
+  - 前台網站開發：建立可擴展的 React / Next.js 架構（MVVM 模式、MobX 狀態管理）， SSR/CSR 混合渲染提升網站搜尋能見度。
+  - 後台介面開發：表單驗證、多步驟流程、拖曳排序、串接 Google map 等功能。
+  - API 串接與資料處理：設計與實作前端與後端的資料流，確保 UI 與資料同步更新。
+  - 跨平台開發： Android TV App（Kotlin + Jetpack Compose）的 UI 與功能開發。
+  - 跨領域技術：使用 Python、Docker、AWS 建立並維護爬蟲服務，負責雲端環境設定與自動化部署。
+  - AI 工具輔助開發：透過 AI（Claude, ChatGPT）提升開發效率，專注於架構設計與程式品質。
 
 ---
 
@@ -58,7 +64,7 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 #### [Nearyou](https://nearyou.com.tw/) - 房屋租賃平台
 
-- **Tech Stack:** Next.js 15, React 19, TypeScript 5.8, MobX 6, SCSS Modules, Ant Design 5, Google Maps API, Git
+- **Tech Stack:** Next.js, React, TypeScript, MobX, SCSS Modules, Ant Design, Google Maps API, Git
 - **Role:**
   - 前端架構設計：採用 MVVM 架構模式，建立從 View (React Components) → ViewModel (MobX Store) → Service → API 的分層結構
   - 混合渲染策略：整合 SSR（物件詳情頁）、SSG（靜態頁面）、CSR（互動功能）以提升 SEO 與載入速度
