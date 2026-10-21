@@ -6,44 +6,52 @@
 
 ### About Me
 
-我是一名前端工程師，擁有多年的開發經驗，專注於建構可擴展的前端架構、實作高互動性的使用者介面，以及優化複雜系統的效能。我曾參與開發前台網站、後台系統與 Android TV App 等，並熟悉跨平台產品的設計與實作。我熱衷於解決 UI/UX 挑戰，並透 AI 工具輔助，加速開發流程，持續交付乾淨、可維護且以使用者為核心的解決方案。
+我是一名軟體工程師，擁有多年開發經驗，專注於建構可擴展的前端架構與高互動性的使用者介面。目前獨立負責一套社群行銷自動化平台的開發，範圍從 React 前端延伸到 Express + Firestore 後端與 Google Cloud 上的部署維運。過去參與過前台網站、後台系統、Android TV App 與雲端資料採集基礎建設，熟悉跨平台與跨領域產品的設計與實作。我重視架構設計與程式品質，並將 AI 工具視為開發流程的一部分 —— 不只用來加速產出，更用來建立一套規格驅動、以測試把關的開發方法。
 
-I am a frontend engineer with extensive experience in building scalable architectures, developing highly interactive user interfaces, and optimizing performance for complex systems. I have contributed to projects ranging from customer-facing websites and admin dashboards to Android TV apps, with solid expertise in cross-platform product development. Passionate about solving UI/UX challenges, I leverage AI-assisted tools to accelerate workflows and consistently deliver clean, maintainable, and user-centric solutions.
+I'm a frontend engineer with years of development experience, focused on building scalable frontend architectures and highly interactive user interfaces. I'm currently the sole developer of a social marketing automation platform, with my scope extending from the React frontend to an Express + Firestore backend and deployment and operations on Google Cloud. My past work spans customer-facing websites, admin dashboards, an Android TV app, and cloud-based data collection infrastructure, giving me solid experience across platforms and domains. I care deeply about architecture and code quality, and I treat AI tooling as part of the development process itself — not merely to move faster, but to establish a spec-driven, test-gated way of working.
 
 ---
 
 ### Autobiography
 
-我並非資訊相關科系出身，偶然間看到一個動畫效果精美的網站啟發而開始自學前端。利用工作之餘的時間，學習 HTML、CSS、JavaScript 等基礎技術，並持續挑戰更進階的框架與工具，開發了口罩地圖、電商平台等實際作品，並公開於 GitHub 作為技術展示。這段歷程不僅培養了我獨立解決問題的能力，也讓我深刻體會到程式架構設計與最佳實務的重要性。
+我目前獨立開發一套社群行銷自動化平台，從前端介面、後端 API、資料層設計到雲端部署與維運都由我負責。這個角色跟我入行時的樣子差很多 —— 我並非資訊相關科系出身，是偶然看到一個動畫效果精美的網站受到啟發，利用工作之餘自學前端開始的。
 
-在職涯中，我主要負責前後台系統的前端開發，熟悉 API 串接、資料處理與表單互動邏輯設計。同時，我也參與多元專案，包括利用 PixiJS 建構互動式平面圖系統、使用 Kotlin/Jetpack Compose 開發 Android TV 應用程式，以及透過 Python、Docker 與 AWS 建立爬蟲服務。在這些專案中，我不斷累積跨領域經驗，並展現快速學習與應用的能力。
+我從 HTML、CSS、JavaScript 等基礎技術入門，持續挑戰更進階的框架與工具，完成口罩地圖、電商網站等作品並公開於 GitHub 作為技術展示，最終憑作品集轉職進入資訊產業。這段歷程培養了我獨立解決問題的能力，也讓我習慣在沒有人指導的情況下，把一項新技術學到足以交付的程度。
 
-目前我最擅長的是 React 與其相關的前端技術，並將前端作為長期職涯方向。未來，我希望持續深化前端專業，同時逐步拓展後端能力，成為兼具廣度與深度的 T 型工程師，以更全面的視角推動產品開發與優化。
+在職涯中，我主要負責前後台系統的前端開發，熟悉 API 串接、資料處理與表單互動邏輯設計。同時也參與多元專案：以 PixiJS 建構互動式平面圖系統、用 Kotlin / Jetpack Compose 開發 Android TV 應用，以及透過 Python、Docker 與 AWS 建立並維運雲端資料採集服務。近期進一步承擔後端與雲端架構的工作。
 
-I did not come from a computer science background, but my journey into frontend development began when I was inspired by a visually stunning website with engaging animations. Fascinated by the experience, I started self-learning frontend technologies such as HTML, CSS, JavaScript, and jQuery during my spare time while working full-time. Over time, I built and published projects like a mask map application and a simple e-commerce site on GitHub, which not only strengthened my technical foundation but also taught me the importance of clean architecture and best practices.
+我把 AI 工具視為開發流程的一部分，而不只是加速工具。為了讓 AI 輔助的產出品質可控，我整合 OpenSpec 與 Superpowers 設計了一套規格驅動的開發流程，強制測試先行並設置多階段品質閘門。前端仍是我的長期職涯方向，同時我希望補強關聯式資料庫與微服務架構，成為前端底子紮實、後端也拿得起來的 T 型工程師。
 
-In my professional career, I have mainly worked on admin dashboards, where I specialized in API integration, data handling, and designing interactive form logic. Beyond that, I have also contributed to diverse projects, including developing an interactive floor plan editor using PixiJS, building an Android TV application with Kotlin and Jetpack Compose, and creating crawler infrastructure with Python, Docker, and AWS. These experiences allowed me to expand my technical versatility and sharpen my ability to quickly learn and apply new tools.
+I'm currently the sole developer of a social marketing automation platform, responsible for everything from the frontend interface and backend APIs to the data layer, cloud deployment, and operations. It's a long way from where I started — I did not come from a computer science background. My journey began when I stumbled upon a website with beautifully crafted animations, which inspired me to start learning frontend development in my spare time.
 
-Currently, my core expertise lies in React and modern frontend technologies, and I am committed to pursuing frontend development as my long-term career path. Moving forward, I aim to deepen my frontend expertise while progressively exploring backend development, striving to grow into a T-shaped engineer capable of tackling product challenges with both depth and breadth.
+I began with the fundamentals — HTML, CSS, and JavaScript — then progressively took on more advanced frameworks and tooling. I built and published projects such as a mask map application and a simple e-commerce site on GitHub as a technical showcase, and eventually moved into the software industry on the strength of that portfolio. That process taught me to solve problems independently, and got me used to taking a new technology from zero to something I can actually ship, without anyone guiding me.
+
+In my professional career, I have mainly worked on frontend development for customer-facing and admin systems, specializing in API integration, data handling, and interactive form logic. I have also contributed to a range of other projects: an interactive floor plan editor built with PixiJS, an Android TV application using Kotlin and Jetpack Compose, and cloud-based data collection infrastructure built and maintained with Python, Docker, and AWS. More recently, I have taken on backend and cloud architecture work as well.
+
+I treat AI tooling as part of the development process rather than just an accelerator. To keep AI-assisted output under control, I integrated OpenSpec and Superpowers into a spec-driven development workflow that enforces test-first development and multiple quality gates. Frontend remains my long-term career direction, and alongside it I'm working to deepen my knowledge of relational databases and microservice architecture — aiming to become a T-shaped engineer with a solid frontend foundation who can also hold their own on the backend.
 
 ---
 
 ### Skills
 
 - **Languages & Fundamentals:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries:** React, React Router, Next.js 15, MobX
-- **Styling & UI:** SCSS, Ant Design, Bootstrap
-- **Build Tools & Tooling:** Vite, Vitest, Git
-- **Localization:** i18n
+- **Frontend:** React (19), React Router, Next.js 15, MobX, Vue 2 / Vuex
+- **Backend:** Node.js, Express 5, Zod, RESTful API, GraphQL（串接）
+- **Database:** Firestore, MongoDB
+- **Cloud & DevOps:** Google Cloud Run / Cloud Tasks / Cloud Scheduler / Firebase Hosting, AWS EC2 / S3 / SSM, Docker, Linux, 部署腳本化
+- **Testing & Quality:** Vitest, TDD, knip
+- **Styling & UI:** Tailwind CSS, SCSS, Ant Design, Bootstrap
+- **Build Tools & Tooling:** Vite, Git, GitLab
+- **Other:** Kotlin / Jetpack Compose (Android TV), Python (Scrapy, Playwright), LINE LIFF, i18n
 - **Package Managers:** Npm, Yarn
 
 ---
 
 ### Currently Learning
 
-- **Tailwind CSS:** 以 Utility-first 方式快速建立響應式 UI
-- **Next.js:** 支援 SSR 與 SSG 的全端 React 框架
-- **BFF (Backend for Frontend):** 設計針對前端優化的 API Layer
+- **後端開發:** 深化 Node.js / Express 的分層架構、錯誤處理與 API 設計規範，從「能實作」進一步到「能設計」
+- **關聯式資料庫 (SQL):** 補強 NoSQL 之外的資料建模與正規化、JOIN 與索引運用，以及資料表結構（schema）設計
+- **微服務架構:** 服務拆分、服務間通訊與部署策略
 
 ---
 
@@ -51,6 +59,8 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 - 🟢 **2021/11 - Present**  
   **Software Engineer** at **Miracle Mobile**
+  - 全端開發：獨立負責 Mirago 社群行銷自動化平台的前端、後端（Express 5 + Firestore）與雲端部署（Cloud Run、Cloud Tasks、Cloud Scheduler）。
+  - 開發流程建立：整合 OpenSpec、Superpowers 與 SKILL.md，設計規格驅動開發（SDD）流程，導入強制 TDD 與多階段品質閘門。
   - 前台網站開發：建立可擴展的 React / Next.js 架構（MVVM 模式、MobX 狀態管理）， SSR/CSR 混合渲染提升網站搜尋能見度。
   - 後台介面開發：表單驗證、多步驟流程、拖曳排序、串接 Google map 等功能。
   - API 串接與資料處理：設計與實作前端與後端的資料流，確保 UI 與資料同步更新。
@@ -62,12 +72,35 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 ### Work Experience
 
+#### [Mirago](https://github.com/chuangfe/chuangfe/tree/main/demos/lineMarketing) - LINE OA + WebApp 內容產製系統
+
+協助商家自動產製與發布社群行銷內容的平台，商家透過 LINE 和 Google 登入開啟 LIFF 頁面，就能生成商品行銷圖片與文案，並一鍵發佈到 Facebook、Instagram、Threads 與 LINE OA。
+
+- **Tech Stack:** TypeScript, React 19, React Router 7, Vite, Tailwind CSS, LINE LIFF, Express 5, Zod, Firestore, Google Cloud Run, Cloud Tasks, Cloud Scheduler, Firebase Hosting, Vitest, knip
+- **Role:** 獨立開發（前端 / 後端 / 資料層 / 雲端部署）
+  - 前端：React 19 + React Router 7 單頁應用，含 LINE LIFF 內嵌頁、網頁版與管理後台三種介面
+  - 後端：Express 5 API，依資源分目錄組織 route handlers，以 Zod 驗證請求，資料存取採 Repository pattern 封裝 Firestore
+  - 非同步任務編排：內容產製與發佈以 Cloud Tasks 轉為背景任務，前端輪詢呈現進度
+  - 排程作業：以 Cloud Scheduler 觸發多支背景 worker，處理排程發佈與提醒通知
+  - 多平台社群整合：Facebook / Instagram / Threads（Meta Graph API）與 LINE OA 的 OAuth 授權、內容發佈與成效數據；並接收 Meta webhook 處理留言事件
+  - 雲端部署：後端容器化部署於 Cloud Run，前端部署於 Firebase Hosting
+  - 開發流程：導入規格驅動開發（SDD），強制 TDD，累計 206 個測試檔
+- **Challenges:**
+  - 發佈作業不可重複執行：以任務認領機制與確定性識別碼確保冪等，作業結束後進行狀態核對
+  - 長時間背景作業的狀態呈現：跨多階段的進度、失敗與完成回饋，並處理使用者中途離開後回訪
+  - 多租戶資料隔離：定義單一的擁有權判定來源，所有資料查詢一律以該來源為依據
+  - 多平台差異吸收：四個社群平台的授權模式、內容格式與發佈限制皆不同，需在共用流程下吸收差異
+- **Note:** 公司內部產品，未提供對外連結
+- **Development Date:** 2026/05 ~ Present
+
 #### [Nearyou](https://nearyou.com.tw/) - 房屋租賃平台
+
+房屋租賃平台，提供物件搜尋（整合 Google 地圖）、多步驟刊登表單、後台管理功能。
 
 - **Tech Stack:** Next.js, React, TypeScript, MobX, SCSS Modules, Ant Design, Google Maps API, Git
 - **Role:**
   - 前端架構設計：採用 MVVM 架構模式，建立從 View (React Components) → ViewModel (MobX Store) → Service → API 的分層結構
-  - 混合渲染策略：整合 SSR（物件詳情頁）、SSG（靜態頁面）、CSR（互動功能）以提升 SEO 與載入速度
+  - 渲染策略：物件詳情頁採 SSR 並對後端 API 回應加上快取，互動功能採 CSR，以兼顧 SEO 與載入速度
   - 功能開發：實作房屋搜尋系統（Google Maps 整合）、多步驟刊登表單、LINE OAuth 登入、後台管理系統
   - 效能優化：使用 React.memo、@dnd-kit 拖曳排序等技術
   - AI 輔助開發：使用 Claude AI 加速開發流程，開發者專注於架構與程式品質
@@ -79,6 +112,8 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 #### 亞洲指標 Crawler System - 爬蟲系統基礎建設
 
+為亞洲指標打造的爬蟲系統基礎建設，建置並維護雲端爬蟲伺服器，蒐集多個網站的文章、留言。
+
 - **Tech Stack:** Python, Scrapy, Playwright, Docker, AWS EC2/S3, Cronjob, Linux, Git, CI/CD
 - **Role:**
   - AWS 雲端基礎建設：自零建立 EC2、Bastion Host、安全群組與網路安全設定
@@ -86,12 +121,14 @@ Currently, my core expertise lies in React and modern frontend technologies, and
   - 爬蟲維護與優化：修正並優化不同網站的爬蟲，涵蓋靜態頁面抓取、動態渲染、模擬使用者操作
   - CI/CD 自動化部署：透過 AWS S3 與 SSM 實作跨多台 EC2 的自動部署流程
 - **Challenges:**
-  - 大量資料標準化：定義統一的資料格式，處理文章、留言與統計資料等複雜結構
+  - 大量資料標準化：定義統一的資料格式，處理文章、留言等複雜結構
   - 技術債管理：重構舊有程式碼，移除未使用模組、統一命名規範、檢查安全設定
   - AI 輔助維護：使用 Claude AI 自動分析網站結構變更，加速爬蟲維護效率與準確性
 - **Development Date:** 2025/04 ~ Present
 
 #### [PTS TV App](https://github.com/chuangfe/chuangfe/tree/main/demos/ptstv) - 公共電視 Android TV App
+
+專為公共電視台（PTS）開發的 Android TV 應用程式，提供節目與直播內容的電視收視體驗。
 
 - **Tech Stack:** Kotlin, Jetpack Compose
 - **Role:** 參與 UI 功能與播放控制功能開發
@@ -100,6 +137,8 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 #### [展昭國際](https://github.com/chuangfe/chuangfe/tree/main/demos/chanChao) - 展覽場地平面圖系統
 
+展覽場地平面圖系統，協助展覽主辦方編輯與管理展場攤位平面圖。
+
 - **Tech Stack:** React, React Router, MobX, Ant Design, PixiJS
 - **Role:** 開發可互動的平面圖系統
 - **Challenges:** 銜接 DOM 與 PixiJS 渲染層，並實作複雜的狀態與復原邏輯
@@ -107,12 +146,16 @@ Currently, my core expertise lies in React and modern frontend technologies, and
 
 #### [柯南國際](https://github.com/chuangfe/chuangfe/tree/main/demos/conan) - 後台系統
 
+內部後台系統，用於管理複雜表單並串接後端資料。
+
 - **Tech Stack:** React, React Router, MobX, Ant Design
 - **Role:** 實作大量表單與驗證邏輯
 - **Challenges:** 使用 MobX computed values 高效管理複雜表單狀態
 - **Development Date:** 2023/01 ~ 2023/04
 
 #### [KAVAVA](https://kavava.com/) - 美國土地租賃平台
+
+美國土地租賃平台，提供地主後台管理功能，並整合 Google 地圖呈現物件位置。
 
 - **Tech Stack:** React, React Router, MobX, Ant Design, Google Maps API
 - **Role:** 開發與維護地主後台功能
